@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Book Template</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class="Header">
+		<a href=""><img src="img/site-logo.svg"></a>
+		<span>Dev Book</span>		
+	</div>
+	<div class="Banner">
+		<div class="container">
+		       <div class="row">
+		<div class="banner-left">
+				      <div class="col-6 left">
+					<h1>Free Book & eBook Landing Page Template</h1>
+					<p>Afree Bootstrap 4template for developers and programmers who want to self-publish books. download now and start selling your book right away!</p>
+					<div class="banner-button">
+						<button class="left-button">Buy for $20</button>
+						<button class="right-button">Learn More</button>
+					</div>
+
+				  <div class="testimonial">
+					<div class="message">
+						<div class="mark-box">
+							
+						</div>
+						<p><i>"Awesome! Lorem ipsum dolor sit amet, consectetur adipiscing elit, Aliquam euismod nunc porta urna facilisis tempor. praesent mauris neque, viverra quis erat vitae."</i></p>
+					</div>
+					<div class="user">
+						<div class="row">
+							<div class="col-10">
+								<img src="img/profile-1.png">
+							</div>
+						    <div class="col-90">
+						    	<div class="user-info">
+						    		<div class="user-p">
+						    		<P>Andy Doe</P>
+						    	    <p>Frontend developer, Company Lorem</p>
+						    	   </div>
+						    		
+						    	</div>
+						    </div>
+						</div>
+					</div>
+
+				   </div>
+				
+				</div>
+		</div>
+
+		<div class="banner-right">
+			<div class="col-6 right">
+				<div class="right-img">
+					<div class="circle">
+						<div class="name">
+							<h3>New</h3>
+						    <h3>Relese</h3>
+					</div>
+					</div>
+					<img src="img/devbook-cover.png" width="90%" height="650px">
+				</div>
+				<div class="reviews">
+					<a href="">see all book reviews</a>
+				</div>
+				</div>
+		</div>
+				
+				
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

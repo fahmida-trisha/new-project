@@ -1,0 +1,40 @@
+.col-b{
+	width: 33.33%;
+	float: left;
+} 
+.c-4{
+	text-align: center;
+    padding: 20px;
+}
+.c-4 h4{
+	font-size: 21px;
+}
+.c-4 p{
+	font-size: 16px;
+	padding: 14px 0;
+	color: #4c527d;
+}
+.c-5{
+	text-align: center;
+    padding: 20px;
+}
+.c-5 h4{
+	font-size: 21px;
+}
+.c-5 p{
+	font-size: 16px;
+	padding: 14px 0;
+	color: #4c527d;
+}
+.c-6{
+	text-align: center;
+    padding: 20px;
+}
+.c-6 h4{
+	font-size: 21px;
+}
+.c-6 p{
+	font-size: 16px;
+	padding: 14px 0;
+	color: #4c527d;
+}
